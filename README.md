@@ -40,6 +40,7 @@ BROWSERBASE_API_KEY=xxxx python main.py
 
 ## Further reading
 
-- [See how to leverage the Session Debugger for faster development](https://docs.browserbase.com/guides/browser-remote-control#accelerate-your-local-development-with-remote-debugging)
+- [See how to leverage the Session Debugger for pip install -r requirements.txt
+zsh: command not found: pipfaster development](https://docs.browserbase.com/guides/browser-remote-control#accelerate-your-local-development-with-remote-debugging)
 - [Learn more about Browserbase infrastructure](https://docs.browserbase.com/under-the-hood)
 - [Explore the Sessions API](https://docs.browserbase.com/api-reference/list-all-sessions)
